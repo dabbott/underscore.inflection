@@ -1,9 +1,6 @@
 {
   "name": "underscore.inflection",
   "version": "1.2.0",
-  "dependencies": {
-    "underscore": "~1.7.0"
-  },
   "main" : "lib/underscore.inflection.js",
   "ignore" : [
     "lib-cov",
